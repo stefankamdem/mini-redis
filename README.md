@@ -22,7 +22,7 @@ cd mini-redis
 
 If the project uses Python:
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 python main.py
 ```
 
