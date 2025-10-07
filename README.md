@@ -32,6 +32,14 @@ Run the server:
 python server.py
 ```
 
+## Example Output:
+```pgsql
+> SET name Stefan
+OK
+> GET name
+Stefan
+```
+
 Then connect with a client or via telnet:
 ```bash
 telnet localhost 6379
